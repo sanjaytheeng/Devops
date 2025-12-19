@@ -4,7 +4,7 @@ A bash script to analyse basic server performance stats.
 ## Getting Started
 1. **Clone the repository**
     ```
-    git clone https://github.com/sanjaytheeng/Devops.git
+    git clone https://github.com/sanjaytheeng/Server-Stats.git
     ```
 
 2. **Make the script executable**
