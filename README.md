@@ -1,5 +1,7 @@
 # `server-stats.sh` — macOS Server Performance Monitor
 
+**Project Page**: https://github.com/sanjaytheeng/Devops  
+
 A lightweight, portable Bash script to collect and display essential system performance metrics on **macOS**, designed for sysadmins, developers, and educators needing quick insight into system health—without external dependencies.
 
 >  **No third-party tools required** — uses only built-in macOS utilities (`ps`, `vm_stat`, `df`, `awk`, `sort`).
@@ -43,4 +45,3 @@ All output is clean, timestamped, and CLI-friendly.
    # OR
    nano server-stats.sh  # paste script contents from server-stats.sh
 
-Project Page URL: https://devops-eosin-alpha.vercel.app/
