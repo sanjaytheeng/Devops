@@ -43,4 +43,4 @@ All output is clean, timestamped, and CLI-friendly.
    # OR
    nano server-stats.sh  # paste script contents from server-stats.sh
 
-Project Page URL: https://github.com/sanjaytheeng/Devops
+Project Page URL: https://devops-eosin-alpha.vercel.app/
