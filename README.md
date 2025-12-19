@@ -1,12 +1,12 @@
-# 📊 `server-stats.sh` — macOS Server Performance Monitor
+# `server-stats.sh` — macOS Server Performance Monitor
 
 A lightweight, portable Bash script to collect and display essential system performance metrics on **macOS**, designed for sysadmins, developers, and educators needing quick insight into system health—without external dependencies.
 
-> ✅ **No third-party tools required** — uses only built-in macOS utilities (`ps`, `vm_stat`, `df`, `awk`, `sort`).
+>  **No third-party tools required** — uses only built-in macOS utilities (`ps`, `vm_stat`, `df`, `awk`, `sort`).
 
 ---
 
-## 🎯 Features
+## Features
 
 The script reports:
 
@@ -22,7 +22,7 @@ All output is clean, timestamped, and CLI-friendly.
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - **macOS 10.15 (Catalina) or later**  
   (Tested on macOS Monterey, Ventura, and Sonoma — Intel & Apple Silicon)
@@ -31,11 +31,11 @@ All output is clean, timestamped, and CLI-friendly.
   - `bash` (≥ v3.2)
   - `ps`, `vm_stat`, `df`, `awk`, `sort`, `hostname`, `sw_vers`
 
-> ✅ No `brew`, `python`, or `bc` required.
+> No `brew`, `python`, or `bc` required.
 
 ---
 
-## 📥 Installation
+## Installation
 
 1. Download or create the script:
    ```bash
